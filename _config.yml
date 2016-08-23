@@ -1,0 +1,14 @@
+layout_spectrum: 0.7763243527151644
+typography_spectrum: 0.2996688475832343
+color:
+  brandStrength: 0.21605081553570926
+  lightness: 0.44943082402460277
+  saturation: 0.05000439705327153
+  rhythmicContrast: 0.6786787291057408
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+name: Tuumly
